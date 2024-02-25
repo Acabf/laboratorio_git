@@ -1,0 +1,1 @@
+console.log("Creo un fichero nuevo en la carpeta del repo");
